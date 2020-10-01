@@ -1,7 +1,7 @@
 ember-toggle
 ==============================================================================
 
-[Short description of the addon.]
+Handy template helper to return the opposite of the given value.
 
 
 Compatibility
